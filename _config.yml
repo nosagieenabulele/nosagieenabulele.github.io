@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: "Nosagie Enabulele"
 
 # Your name to show in the footer
-author: Some Person
+author: Nosagie Enabulele
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Process Analyst specialised in BPMN, Lean, and Six Sigma. I optimize workflows, enhance performance, and foster collaborative process improvements."
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -50,12 +50,12 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "nosagieenabulele@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
+  facebook: nosagie 
+  github: nosagieenabulele
+  twitter: 
+  patreon: 
   youtube: "@daattali"
   whatsapp: 15551212
 #  medium: yourname
