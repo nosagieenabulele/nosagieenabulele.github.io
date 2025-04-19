@@ -4,10 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+Process Analyst specialised in BPMN, Lean, and Six Sigma. I optimize workflows, enhance performance, and foster collaborative process improvements.
 
 What else do you need?
 
